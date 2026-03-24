@@ -25,11 +25,11 @@ This dashboard provides meaningful insights to help businesses understand financ
 
 ### Executive Overview
 
-executive overview.png
+executive_overview.png
 
 ### Profit Analysis
 
-profit analysis.png
+profit_analysis.png
 
 ##  Project Structure
 
