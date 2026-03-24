@@ -37,8 +37,8 @@ profit_analysis.png
 financial_sample/
 │── financialsample.pbix        # Power BI Dashboard File
 │── financial data.xlsx         # Dataset
-│── executive overview.png      # Dashboard Screenshot 1
-│── profit analysis.png         # Dashboard Screenshot 2
+│── executive_overview.png      # Dashboard Screenshot 1
+│── profit_analysis.png         # Dashboard Screenshot 2
 │── README.md                  # Project Documentation
 ```
 
